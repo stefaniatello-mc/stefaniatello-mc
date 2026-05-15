@@ -1,4 +1,4 @@
-# ¡Hola! Soy Stefania 👋
+# ¡Hola! Soy Stefania
 
 Soy estudiante de Bioingeniería en la UTEC enfocada en la intersección de las ciencias computacionales, la ingeniería de datos y el desarrollo de productos tecnológicos. Combino el rigor analítico y metodológico de mi carrera con el diseño de arquitecturas técnicas, la lógica de software (SaaS) y la integración de herramientas disruptivas como la Inteligencia Artificial.
 
